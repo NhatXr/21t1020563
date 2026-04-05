@@ -132,7 +132,7 @@ if page == "1. Giới thiệu & EDA":
             <div>
                 <h3 style="margin:0; color:#0f172a;">Nguyễn Thành Nhật</h3>
                 <p style="margin:6px 0 0 0; color:#475569; font-size:1.05rem;">
-                    MSSV: 21T1020563 &nbsp;|&nbsp; 
+                    MSV: 21T1020563 &nbsp;&nbsp; 
                 </p>
             </div>
         </div>
